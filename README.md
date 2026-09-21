@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vishwas
+# Hi 👋, I'm Ananya Singh
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -20,7 +20,7 @@
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/vishwas0229)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ananyasingh0413)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:852006rahul@gmail.com)
 
 ---
@@ -84,13 +84,13 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/vishwas0229/vishwas0229/output/github-contribution-grid-snake-dark.svg">
+      srcset="https://raw.githubusercontent.com/Ananyasingh0413/Ananyasingh0413/output/github-contribution-grid-snake-dark.svg">
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/vishwas0229/vishwas0229/output/github-contribution-grid-snake.svg">
+      srcset="https://raw.githubusercontent.com/Ananyasingh0413/Ananyasingh0413/output/github-contribution-grid-snake.svg">
     <img
       alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/vishwas0229/vishwas0229/output/github-contribution-grid-snake.svg">
+      src="https://raw.githubusercontent.com/Ananyasingh0413/Ananyasingh0413/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
