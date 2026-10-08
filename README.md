@@ -10,10 +10,12 @@
 - Data Structures & Algorithms
 - Artificial Intelligence & Machine Learning
 - App Devlopment
+- Data Analytics
 
 🚀 **Working On**
 - Open Source Contributions
 - DSA Problem Solving
+- Data Analytics
 
 ---
 
@@ -42,6 +44,11 @@
 ### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+
+### Other Skills
+![Excel]
+![Power Bi]
 
 ### Tools & Platforms
 
