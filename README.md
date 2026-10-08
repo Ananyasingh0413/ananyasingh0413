@@ -47,8 +47,8 @@
 
 
 ### Other Skills
-![Excel]
-![Power Bi]
+![Excel](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=Excel)
+![Power BI](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=Power BI)
 
 ### Tools & Platforms
 
