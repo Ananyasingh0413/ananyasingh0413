@@ -46,12 +46,10 @@
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
 </p>
 
-<h3>📊 Data Analytics</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-</p>
+### 📊 Data Analytics
+
+<img src="https://skillicons.dev/icons?i=excel,powerbi" alt="Excel and Power BI" />
 
 
 
