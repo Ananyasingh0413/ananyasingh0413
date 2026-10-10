@@ -47,9 +47,11 @@
 </p>
 
 
+
 ### 📊 Data Analytics
 
-<img src="https://skillicons.dev/icons?i=excel,powerbi" alt="Excel and Power BI" />
+<img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg" height="48" alt="Power BI" />
+<img src="https://cdn.jsdelivr.net/gh/sempostma/office365-icons/png/256/excel.png" height="48" alt="Microsoft Excel" />
 
 
 
