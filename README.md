@@ -48,11 +48,14 @@
 
 
 
+
 ### 📊 Data Analytics
 
-<img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg" height="48" alt="Power BI" />
-<img src="https://cdn.jsdelivr.net/gh/sempostma/office365-icons/png/256/excel.png" height="48" alt="Microsoft Excel" />
-
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/sempostma/office365-icons/png/256/excel.png" height="48" alt="Excel" />
+  <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg" height="48" alt="Power BI" />
+</p>
 
 
 ### 🛠️ Tools & Platforms
