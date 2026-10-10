@@ -28,7 +28,7 @@
   <a href="https://www.instagram.com/ananyasingh0613?exln=M2EzZ3ZqdXlhNWpl" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="48" alt="Instagram" />
   </a>
-  <a href="rachanananya11@gmail.com">
+  <a href="mailto:rachanananya11@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email" />
   </a>
 </p>
