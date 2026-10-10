@@ -19,13 +19,21 @@
 
 ---
 
-## 🌐 Connect With Me
+### 🤝 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ananyasingh0413)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:rachanananya11@gmail.com)
-
----
-
+<p align="left">
+  <a href="www.linkedin.com/in/
+ananya-singh-12742243b
+" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/ananyasingh0613?exln=M2EzZ3ZqdXlhNWpl" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="48" alt="Instagram" />
+  </a>
+  <a href="rachanananya11@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email" />
+  </a>
+</p>
 ## 💻 Tech Stack
 
 <h3>💻 Languages & Technologies</h3>
