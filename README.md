@@ -22,9 +22,7 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/
-ananya-singh-12742243b
-" target="_blank">
+  <a href="https://www.linkedin.com/in/ananya-singh-12742243b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/ananyasingh0613?exln=M2EzZ3ZqdXlhNWpl" target="_blank">
@@ -34,7 +32,7 @@ ananya-singh-12742243b
     <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email" />
   </a>
 </p>
-## 💻 Tech Stack
+
 
 <h3>💻 Languages & Technologies</h3>
 
