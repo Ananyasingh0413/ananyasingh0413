@@ -28,32 +28,36 @@
 
 ## 💻 Tech Stack
 
-### Languages
+<h3>💻 Languages & Technologies</h3>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,php,js" alt="Python, C, C++, PHP and JavaScript" />
+</p>
 
-### Web Development
+<h3>🌐 Web Development</h3>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" alt="HTML and CSS" />
+</p>
 
-### Database
+<h3>🗄️ Database</h3>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+</p>
+
+<h3>📊 Data Analytics</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
 
 
-### Other Skills
-![Excel](https://img.shields.io/badge/Excel-4479A1?style=for-the-badge&logo=Excel)
-![Power BI](https://img.shields.io/badge/PowerBI-4479A1?style=for-the-badge&logo=PowerBI)
 
-### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+
 
 ---
 
